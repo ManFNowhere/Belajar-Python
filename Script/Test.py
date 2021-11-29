@@ -1,1 +1,4 @@
-print("TEST FOLDER SCRIPT")
+print('################################### Belajar - Python #############################')
+print()
+
+print('Hallo World')
